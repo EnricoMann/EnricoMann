@@ -25,7 +25,7 @@ When I’m not coding, I’m usually analyzing data, experimenting with LLM inte
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 My Featured Projects
 
 #### 🧩 [DataNarrator](https://github.com/EnricoMann/datanarrator)
 AI‑powered data analysis platform that lets users upload CSVs and automatically generate insights, charts, and PDF reports using LLM reasoning.  
@@ -36,10 +36,6 @@ Demonstrates **data pipeline design**, **API orchestration**, and **scalable arc
 Distributed trending intelligence dashboard aggregating developer content from **Hacker News**, **GitHub**, and **Dev.to** in real time.  
 Built a multi‑service system with **Node.js**, **Redis**, **PostgreSQL**, and **BullMQ**, visualized via **Next.js**.  
 Focus on **distributed job queues**, **real‑time analytics**, and **system orchestration**.
-
-#### 🧠 [AttestAI – WhatsApp Verifier](#)
-AI‑driven message verification system developed for the NGO **Ação da Cidadania**, supporting Brazil’s fight against misinformation.  
-Implemented with **Python**, **Django**, **PostgreSQL**, **n8n**, and **WPPConnect**, integrating **LLMs (OpenAI, Gemini, DeepSeek, AWS Bedrock)** for automated text/audio classification.
 
 ---
 
