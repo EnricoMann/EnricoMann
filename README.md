@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Enrico Mann
+# 👋 Hey, I'm Enrico
 
 **Software Engineer** based in Barcelona 🇪🇸  
 Focused on building **scalable, data-driven systems** using **Python**, **TypeScript**, **Node.js**, and **FastAPI**.  
