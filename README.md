@@ -10,8 +10,6 @@ I work at the intersection of **backend architecture**, **automation**, and **AI
 I’m passionate about designing systems that are elegant under pressure — maintainable, fast, and explainable.  
 My work blends backend engineering, automation workflows, and AI models into real products that solve problems with measurable impact.
 
-When I’m not coding, I’m usually analyzing data, experimenting with LLM integrations, or optimizing development workflows.
-
 ---
 
 ###  Core Tech Stack
@@ -58,5 +56,3 @@ Focus on **distributed job queues**, **real-time analytics**, and **system orche
 💻 **GitHub:** [github.com/EnricoMann](https://github.com/EnricoMann)
 
 ---
-
-> “Good engineering is invisible — it just works, scales, and makes sense.”
