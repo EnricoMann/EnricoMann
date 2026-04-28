@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Enrico
 
-**Software Engineer** based in Barcelona 🇪🇸  
+**Software Engineer** based in Brisbane, Australia.
 Focused on building **scalable, data-driven systems** using **Python**, **TypeScript**, **Node.js**, and **FastAPI**.  
 I work at the intersection of **backend architecture**, **automation**, and **AI integration** — from data pipelines to user-facing applications.
 
